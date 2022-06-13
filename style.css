@@ -1,0 +1,33 @@
+body{
+    margin: 5% 10%;
+    background-image: url(images/pic4.jpg);
+    text-align: center;
+}
+#btn-first{
+    background-color: #FF4949;
+}
+.second{
+    
+    background-color: #fff;
+    margin:5px;
+}
+p{
+    color: #fff;
+}
+
+h1,h3,h4{
+    margin: 3% 5%;
+    color: #fff;
+}
+
+#icon1{
+    margin-right:10px;
+}
+#icon2{
+    margin-right: 10px;
+}
+.foot{
+    margin: 10% 20%;
+   
+}
+
